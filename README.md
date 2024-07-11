@@ -16,6 +16,9 @@
 This repository contains a simple and effective form validation script written in JavaScript. The aim is to provide a lightweight and flexible solution for validating user inputs in web forms, ensuring data integrity and improving user experience.
 [TRY NOW!](https://qyuzet.github.io/js-form-validation/)
 
+![image](https://github.com/Qyuzet/js-form-validation/assets/93258081/00c311e2-0069-47ba-bc3e-bbd460c94db6)
+
+
 ## Features
 
 - **Real-time Validation:** Provides instant feedback as users fill out the form fields.
