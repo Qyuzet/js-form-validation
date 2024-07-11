@@ -93,3 +93,7 @@ form button {
 #submit-error {
   columns: red;
 }
+
+.input-group span i {
+  color: seagreen;
+}
